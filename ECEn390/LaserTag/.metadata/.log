@@ -1,0 +1,57 @@
+!SESSION 2015-01-06 10:00:25.312 -----------------------------------------------
+eclipse.buildId=2014.2
+java.version=1.7.0_40
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data F:\ECEn390\LaserTag
+
+!ENTRY org.eclipse.cdt.core 1 0 2015-01-06 10:02:20.861
+!MESSAGE Indexed 'ECEN330_Student_SW_Env' (164 sources, 213 headers) in 5.59 sec: 9,368 declarations; 35,779 references; 129 unresolved inclusions; 19 syntax errors; 595 unresolved names (1.30%)
+!SESSION 2015-01-06 11:07:04.232 -----------------------------------------------
+eclipse.buildId=2014.2
+java.version=1.7.0_40
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.ui 4 4 2015-01-06 11:07:12.016
+!MESSAGE Could not create view: 'org.eclipse.ui.internal.introview'.
+
+!ENTRY org.eclipse.ui 4 0 2015-01-06 11:07:13.140
+!MESSAGE Problems occurred restoring workbench.
+!SUBENTRY 1 unknown 0 0 2015-01-06 11:07:13.140
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2015-01-06 11:07:13.140
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2015-01-06 11:07:13.140
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2015-01-06 11:07:13.140
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.ui 4 0 2015-01-06 11:07:13.140
+!MESSAGE Unable to restore perspective: Workspace - C/C++.
+!SUBENTRY 2 org.eclipse.ui 0 0 2015-01-06 11:07:13.140
+!MESSAGE Problems occurred restoring perspective.
+!SUBENTRY 3 org.eclipse.ui 0 0 2015-01-06 11:07:13.140
+!MESSAGE 
+!SUBENTRY 2 unknown 0 0 2015-01-06 11:07:13.140
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2015-01-06 11:07:13.140
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2015-01-06 11:07:13.140
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2015-01-06 11:07:13.140
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2015-01-06 11:07:13.140
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2015-01-06 11:07:13.140
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2015-01-06 11:07:13.140
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2015-01-06 11:07:13.140
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2015-01-06 11:07:13.140
+!MESSAGE OK
+!SUBENTRY 2 org.eclipse.ui 4 0 2015-01-06 11:07:13.140
+!MESSAGE Could not find view: org.eclipse.ui.internal.introview
+!SUBENTRY 1 unknown 0 0 2015-01-06 11:07:13.140
+!MESSAGE OK

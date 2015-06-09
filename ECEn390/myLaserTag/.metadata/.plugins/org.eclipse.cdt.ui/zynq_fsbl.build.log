@@ -1,0 +1,6 @@
+11:39:31 **** Auto Build of configuration Debug for project zynq_fsbl ****
+make all 
+make: Nothing to be done for `all'.
+
+11:39:33 Build Finished (took 1s.904ms)
+

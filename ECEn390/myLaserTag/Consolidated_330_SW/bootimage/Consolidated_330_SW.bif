@@ -1,0 +1,6 @@
+the_ROM_image:
+{
+	[bootloader]F:\ECEn390\myLaserTag\zynq_fsbl1\Debug\zynq_fsbl1.elf
+	F:\ECEn390\myLaserTag\HWTest3_hw_platform\system.bit
+	F:\ECEn390\myLaserTag\Consolidated_330_SW\Debug\Consolidated_330_SW.elf
+}

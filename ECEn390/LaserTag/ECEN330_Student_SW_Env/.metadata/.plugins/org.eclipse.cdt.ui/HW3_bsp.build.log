@@ -1,0 +1,52 @@
+make -k all 
+libgen -hw \
+	       \
+	       -pe  \
+	       -log libgen.log \
+	       system.mss
+libgen
+Xilinx EDK 14.4 Build EDK_P.49d
+ERROR:Portability:90 - Command line error: Argument <hwspec> must be specified
+Copyright (c) 1995-2012 Xilinx, Inc.  All rights reserved.
+   for the switch "-hw".
+Usage: libgen [-v] [-p <partname>] [-od <output_dir>] {-sd <source_dir>} {-lp
+<library_path>} [-lib] [-log <logfile[.log]>] [-hw <hwspec[.xml]>] [-mhs
+
+<mhsfile[.mhs]>] [-pe <processor_name>] [-verbose] <infile[.mss]>
+
+Display Options:
+  -h (or) -help
+	Help -- just display this message and quit.
+  -v
+	Display Version and quit.
+
+Options:
+  -f <filename>
+	Read command line arguments and options from file.
+  -p <part_name>
+	Target architecture family
+  -log <logfile[.log]>
+	Specify log file.  Default: <libgen>.log.
+  -hw <hwspec[.xml]>
+	Specify a hardware specification XML file.
+  -mhs <mhsfile[.mhs]>
+	Specify input MHS file. Default: <mssfilename_base>.mhs
+  -pe <processor_name>
+	Specify processor instance name
+	for which alone libgen will be run. 
+  -od <output_dir>
+	Output Directory to place tool generated files.
+  -sd <source_dir>
+	Source Directory to search for referenced XML file.
+  -lp <library_path>
+	Add <library_path> to the list of IP/Driver/OS/Library search directories.
+  -lib
+	Copy drivers and libraries but do not compile them.
+	Default: Libraries and drivers and generated and compiled.
+  -verbose
+	Be more verbose. Staging of sources is more verbose.
+	Individual make commands and their outputs are also printed.
+	Default: Non-verbose mode.
+
+make: *** [/lib/libxil.a] Error 2
+make: Target `all' not remade because of errors.
